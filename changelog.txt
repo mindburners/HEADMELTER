@@ -1,3 +1,4 @@
+0.2.13 - New sound 7: Wah Melter
 0.2.12 - Textures twice as loud
 0.2.11 - TEX LOOP: set your own loop start, length (or tempo sync) and scan
 0.2.10 - Tex Loop FLOW: the whole sample, never restarted
