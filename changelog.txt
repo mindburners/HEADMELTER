@@ -1,3 +1,5 @@
+0.2.12 - Textures twice as loud
+0.2.11 - TEX LOOP: set your own loop start, length (or tempo sync) and scan
 0.2.10 - Tex Loop FLOW: the whole sample, never restarted
 0.2.9 - Tex Route SOLO: the sample on its own
 0.2.8 - MELT on the mod wheel: one move turns the sound inside out
