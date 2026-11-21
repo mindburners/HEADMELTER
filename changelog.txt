@@ -1,3 +1,4 @@
+0.2.8 - MELT on the mod wheel: one move turns the sound inside out
 0.2.7 - Oct Shift, stereo PING-PONG and SCATTER gates, 60 sounds
 0.2.6 - The hair changes colour every boot
 0.2.5 - Tex Route ONLY: hear the textures on their own
