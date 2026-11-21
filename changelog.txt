@@ -1,3 +1,5 @@
+0.2.10 - Tex Loop FLOW: the whole sample, never restarted
+0.2.9 - Tex Route SOLO: the sample on its own
 0.2.8 - MELT on the mod wheel: one move turns the sound inside out
 0.2.7 - Oct Shift, stereo PING-PONG and SCATTER gates, 60 sounds
 0.2.6 - The hair changes colour every boot

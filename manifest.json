@@ -1,6 +1,6 @@
 {
   "name": "HEADMELTER — Firmware Installer",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "new_install_prompt_erase": false,
   "builds": [
     {
