@@ -1,3 +1,4 @@
+0.2.15 - Now and then: the cracking skull boot screen
 0.2.14 - Name your sounds when you save them
 0.2.13 - New sound 7: Wah Melter
 0.2.12 - Textures twice as loud
